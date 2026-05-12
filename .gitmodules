@@ -1,0 +1,8 @@
+[submodule "ha-download-manager-addon"]
+	path = ha-download-manager-addon
+	url = https://github.com/mazillka/ha-download-manager-addon
+	branch = main
+[submodule "ha-homereader-tts-addon"]
+	path = ha-homereader-tts-addon
+	url = https://github.com/mazillka/ha-homereader-tts-addon
+	branch = main
